@@ -26,5 +26,6 @@
 5. Upload htaccess  để cho phép các file có đuôi .hanhcute thực thi như 1 file php, từ đó bypass validation extension: AddType application/x-httpd-php .hanhcute
 6. Đổi/ không thay đổi MIME type :
 <img width="355" alt="image" src="https://github.com/shinyluck/CBJS/assets/76943559/726960e9-720c-497c-8434-738381658903">
+
 7. Thêm ký tự MIMEtype của ảnh vào để bypass validation
    
